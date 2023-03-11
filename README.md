@@ -1,2 +1,2 @@
 # TodoApp
-Todo Application 
+Todo Application in Laravel
